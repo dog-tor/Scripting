@@ -1,2 +1,2 @@
 # Scripting
-This repository contains various scripts written in the Bash, PowerShell, and Python languages.
+This repository contains various scripts written in the Bash, PowerShell, and Python languages since 2020.
